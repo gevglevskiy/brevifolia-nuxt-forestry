@@ -8,6 +8,20 @@ fields:
   config:
     required: true
   description: Enter title, needs to match filename for routing
+- name: language
+  type: select
+  default: ru
+  config:
+    required: false
+    options:
+    - ru
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
 - name: author
   type: select
   default: []
