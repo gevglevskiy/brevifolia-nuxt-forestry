@@ -1,20 +1,24 @@
 ---
-author: Friedrich Nietzsche
-title: The Geneology of Morals
+author: Walt Whitman
+title: The Geneology of Morals dfdffd
 slug: the-geneology-of-morals
-date: 2019-08-19T07:00:00Z
-hero_image: "/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+date: 2019-08-19T07:00:00.000+00:00
+hero_image: "/ruslan-bardash-g83y6do219w-unsplash.jpg"
+language: en
 
 ---
 So all respect to the good spirits that may govern in these historians of morality! But it’s certainly a pity that they lack the historical spirit itself, that they’ve been left in the lurch by all the good spirits of history! Collectively they all think essentially unhistorically, in the traditional manner of philosophers. Of that there is no doubt. The incompetence of their genealogies of morals reveals itself at the very beginning, where the issue is to determine the origin of the idea and of the judgment “good.”
 
-“People,” so they proclaim, “originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good.”
+“People,” so they proclaimdf. df df , “originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good.”
 
 # “What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
 
 We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have “usefulness,” “forgetting,” “habit,” and finally “error,” all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
 
-![](/ruslan-bardash-g83y6do219w-unsplash.jpg)
+    sdfsdf
+    sdaf
+    sdf
+    sdfsadfsafd
 
 Now, first of all, it’s obvious to me that from this theory the origin of the idea “good” has been sought for and established in the wrong place: the judgment “good” did not move here from those to whom “goodness” was shown! It is much more that case that the “good people” themselves, that is, the noble, powerful, higher-ranking and higher-thinking people felt and set themselves and their actions up as good, that is to say, of the first rank, in contrast to everything low, low-minded, common, and vulgar. From this pathos of distance they first arrogated to themselves the right to create values, to stamp out the names for values. What did they care about usefulness!
 
